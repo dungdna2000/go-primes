@@ -1,0 +1,78 @@
+
+ 1000 FAILED! Actual= 166 ,Expected= 168 .Time:  61.9466ms
+
+ 1000 FAILED! Actual= 166 ,Expected= 168 .Time:  1.791ms
+
+ 1000 FAILED! Actual= 231 ,Expected= 168 .Time:  44.4350199s
+
+ 1000  PASSED! Actual=Expected= 168 .Time:  517.4µs
+
+ 1000  PASSED! Actual=Expected= 168 .Time:  0s
+
+ 10000  PASSED! Actual=Expected= 1229 .Time:  571.5µs
+
+ 100  PASSED! Actual=Expected= 25 .Time:  519.4µs
+
+ 1000  PASSED! Actual=Expected= 168 .Time:  0s
+
+ 10000  PASSED! Actual=Expected= 1229 .Time:  0s
+
+ 100000 FAILED! Actual= 10181 ,Expected= 9592 .Time:  1.2833ms
+
+ 1000000 FAILED! Actual= 90532 ,Expected= 78498 .Time:  4.5478ms
+
+ 10000000 FAILED! Actual= 838972 ,Expected= 664579 .Time:  35.0208ms
+
+ 100000000 FAILED! Actual= 7929762 ,Expected= 5761455 .Time:  403.4249ms
+
+ 1000000000 FAILED! Actual= 75211606 ,Expected= 50847534 .Time:  5.4096324s
+
+ 100000 FAILED! Actual= 10181 ,Expected= 9592 .Time:  0s
+
+ 100000 FAILED! Actual= 10181 ,Expected= 9592 .Time:  8.7157ms
+
+ 100000 FAILED! Actual= 10181 ,Expected= 9592 .Time:  8.2145ms
+
+ 100000 FAILED! Actual= 10181 ,Expected= 9592 .Time:  5.9044ms
+
+ 100000 FAILED! Actual= 10181 ,Expected= 9592 .Time:  7.0196ms
+
+ 100000 FAILED! Actual= 10181 ,Expected= 9592 .Time:  8.3647ms
+
+ 100000 FAILED! Actual= 10181 ,Expected= 9592 .Time:  7.745199s
+
+ 100000 FAILED! Actual= 10181 ,Expected= 9592 .Time:  4.9956ms
+
+ 100000 FAILED! Actual= 10181 ,Expected= 9592 .Time:  21.4237821s
+
+ 100000  PASSED! Actual=Expected= 9592 .Time:  48.9293146s
+
+ 100  PASSED! Actual=Expected= 25 .Time:  0s
+
+ 1000  PASSED! Actual=Expected= 168 .Time:  0s
+
+ 10000  PASSED! Actual=Expected= 1229 .Time:  502.8µs
+
+ 100000  PASSED! Actual=Expected= 9592 .Time:  3.6353ms
+
+ 1000000  PASSED! Actual=Expected= 78498 .Time:  119.4301ms
+
+ 10000000  PASSED! Actual=Expected= 664579 .Time:  3.1827683s
+
+ 100  PASSED! Actual=Expected= 25 .Time:  139.8µs
+
+ 1000  PASSED! Actual=Expected= 168 .Time:  271.3µs
+
+ 10000  PASSED! Actual=Expected= 1229 .Time:  526µs
+
+ 100000  PASSED! Actual=Expected= 9592 .Time:  5.2427ms
+
+ 1000000  PASSED! Actual=Expected= 78498 .Time:  126.512ms
+
+ 10000000  PASSED! Actual=Expected= 664579 .Time:  3.2468253s
+
+ 100000000000  PASSED! Actual=Expected= 4118054813 .Time:  1m56.7782546s
+
+ 100000000000  PASSED! Actual=Expected= 4118054813 .Time:  1m33.3201833s
+
+ 1000000000000  PASSED! Actual=Expected= 37607912018 .Time:  21m12.9395787s
